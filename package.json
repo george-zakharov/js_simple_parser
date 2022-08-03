@@ -1,0 +1,23 @@
+{
+  "name": "js_simple_parser",
+  "version": "1.0.0",
+  "description": "Test repo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-zakharov/js_simple_parser.git"
+  },
+  "author": "George Zakharov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-zakharov/js_simple_parser/issues"
+  },
+  "homepage": "https://github.com/george-zakharov/js_simple_parser#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
